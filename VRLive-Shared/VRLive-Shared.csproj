@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>VRLive_Shared</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MagicOnion.Abstractions" Version="4.1.2" />
+      <PackageReference Include="MessagePack.UnityShims" Version="2.2.85" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Include="..\VRLiveProject\Assets\Scripts\StreamingApp\Shared\**\*.cs" />
+    </ItemGroup>
+
+</Project>

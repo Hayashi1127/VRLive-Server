@@ -1,0 +1,12 @@
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\bin\Debug\net5.0\VRLive-Shared.deps.json
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\bin\Debug\net5.0\VRLive-Shared.dll
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\bin\Debug\net5.0\ref\VRLive-Shared.dll
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\bin\Debug\net5.0\VRLive-Shared.pdb
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.csproj.AssemblyReference.cache
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.AssemblyInfoInputs.cache
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.AssemblyInfo.cs
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.csproj.CoreCompileInputs.cache
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.dll
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\ref\VRLive-Shared.dll
+C:\Users\hys\Documents\MagicOnion\VRLiveProject\VRLive-Shared\obj\Debug\net5.0\VRLive-Shared.pdb
